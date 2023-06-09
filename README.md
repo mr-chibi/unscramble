@@ -10,6 +10,13 @@ I reprogrammed everything from scratch in "vanilla" to tribute his work keep bri
 
 Words that are in the "unscramble" are all dinosaur based his favorite words. It was very emotional journey rewriting something wanted to share with community.
 
+## How does it work?
+1. When pack installed, it will start game on installation.﻿
+2. Player has write the correct "word" in "minecraft:writable_book" and hit "done"
+3. Player gets it correct command will be granted to them in chat.
+4. Then timer will toggle next game in 20 mins.
+5. If you want to keep going via look in "commands section" under Server Operator commands / Admin.
+
 <h2>What Unique Features does pack offer?</h2>
 <ul>
   <li>Puzzle solving with words scrambled.</li>
