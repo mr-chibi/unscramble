@@ -1,6 +1,15 @@
 <h1>Unscramble</h1>
 <p>Unscramble is a minecraft datapack! It's Singleplayer & Multiplayer Friendly! Player's can unscramble words!</p>
 
+## Datapack tribute to Hotshot2162
+This pack was created to **tribute to Hotshot2162.** 
+Creator passed away in October, 2021. His original work was made as a plugin when he started developing plugins for Minecraft around 1.8.1.
+
+He was one the people that inspired me, when I was younger and stride for goals you think are out reach, but push you forward to reach it. He kept our community group each day having fun and developing amazing plugins and sharing them to public for use.
+I reprogrammed everything from scratch in "vanilla" to tribute his work keep bright and shining.
+
+Words that are in the "unscramble" are all dinosaur based his favorite words. It was very emotional journey rewriting something wanted to share with community.
+
 <h2>What Unique Features does pack offer?</h2>
 <ul>
   <li>Puzzle solving with words scrambled.</li>
