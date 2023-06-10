@@ -24,3 +24,4 @@ function unscramble:randomizer
 # Unscramble (Reset) Functionallity:
 ##############################################################################
 execute if score us_start us_timer matches 1 run clear @a minecraft:writable_book{Tags:["unscramble"]} 1
+execute if score us_start us_timer matches 0 run scoreboard players set us_word us_timer 0
